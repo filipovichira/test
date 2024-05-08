@@ -31,7 +31,6 @@ public class Main {
 
     // найти голубую машину с дескрипшеном 10 (вернуть вместо списка только 1 элемент)
 
-
     List<Car> cars2 = Arrays
         .asList(new Car(Color.BLUE, "10"), new Car(Color.BLUE, "9"), new Car(Color.BLUE, null), new Car(Color.BLUE, "1"), new Car(Color.GREEN, "2"), new Car(Color.GREEN, "6"), new Car(null, "7"), new Car(Color.RAD, "3"), new Car(Color.RAD, "5"), null, new Car(Color.YELLOW, "4"));
 
@@ -42,7 +41,6 @@ public class Main {
     // преобразовать список машин в список цветов и убрать повторяющиеся элементы
 
     // вывести количество элементов списка на экран
-
 
     // вывести первые 3 элемента списка
 
